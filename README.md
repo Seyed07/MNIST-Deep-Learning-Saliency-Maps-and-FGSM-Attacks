@@ -76,16 +76,16 @@ root/
 
 ## **🔬 Example Visualizations**
 ### Accuracy/Loss Progression
-![Accuracy Graph](example_accuracy_graph.png)
+![Accuracy Graph](outputs/example_accuracy_graph.png)
 
 ### Confusion Matrix (Original vs Adversarial Data)
 #### Original Data
-![Confusion Matrix - Original](confusion_matrix_original.png)
+![Confusion Matrix - Original](outputs/confusion_matrix_original.png)
 #### Adversarial Attack
-![Confusion Matrix - Adversarial](confusion_matrix_adversarial.png)
+![Confusion Matrix - Adversarial](outputs/confusion_matrix_adversarial.png)
 
 ### Saliency Map Heatmap
-![Saliency Map](saliency_map.png)
+![Saliency Map](outputs/saliency_map.png)
 
 ### FGSM Attack Impact
 | **Epsilon (Perturbation Strength)** | **Test Accuracy** |
