@@ -104,8 +104,3 @@ root/
   - Serve the trained model using TensorFlow.js or a Web API for easy usage.
 - **Scalability**:
   - Extend the project to more complex datasets (e.g., CIFAR-10).
-
----
-
-
-This README documentation provides a detailed yet concise explanation of your MNIST classification and adversarial attack project. Let me know if you'd like me to refine any section further!
