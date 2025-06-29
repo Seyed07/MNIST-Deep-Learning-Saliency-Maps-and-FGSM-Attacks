@@ -20,7 +20,7 @@ This project focuses on handwritten digit classification using the MNIST dataset
 ### **1. Dataset Description**
 The **MNIST dataset** contains gray-scale images from the digits 0–9:
 - **Training Data**: 49,000 samples (70% of the dataset).
-- **Validation Data**: 14,000 samples (20% of the dataset).
+- **Validation Data**: 14,000 samples (20% of the dataset)..
 - **Testing Data**: 7,000 samples (remaining 10%).
 
 Each image is:
