@@ -87,7 +87,7 @@ root/
 ### Saliency Map Heatmap
 ![Saliency Map](outputs/saliency_map.png)
 
-### FGSM Attack Impact
+### FGSM Attack Impact.
 | **Epsilon (Perturbation Strength)** | **Test Accuracy** |
 |-------------------------------------|-------------------|
 | 0.0 (Clean Data)                    | 98.XX%            |
